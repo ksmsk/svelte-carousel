@@ -1,6 +1,6 @@
 {
 	"name": "@ksmsk/svelte-carousel",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
@@ -31,5 +31,6 @@
 		"tslib": "^2.3.1",
 		"typescript": "~4.6.2"
 	},
-	"type": "module"
+	"type": "module",
+	"repository": "github:ksmsk/svelte-carousel"
 }
